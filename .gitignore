@@ -18,9 +18,3 @@
 
 # Ignore Gemlock
 Gemfile.lock
-
-
-#  describe "attack action" do
-#    it "succeeds"
-#    it "fails"
-#  end
